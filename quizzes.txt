@@ -1,0 +1,51 @@
+{
+"quizzes" : [
+{
+"questions" : [
+{
+"chosen-option" : 3,
+"options" : [
+"a",
+"v",
+"x",
+"b"
+]
+,
+"text" : "some text",
+"correct-option" : 1
+}
+,
+{
+"chosen-option" : 3,
+"options" : [
+"",
+"",
+"",
+""
+]
+,
+"text" : "",
+"correct-option" : 0
+}
+,
+{
+"chosen-option" : 0,
+"options" : [
+"",
+"",
+"",
+""
+]
+,
+"text" : "",
+"correct-option" : 0
+}
+
+]
+,
+"name" : "someQuiz"
+}
+
+]
+
+}
